@@ -22,48 +22,39 @@
 ## Education 🎓
 ### High School (2019 - 2021)
 ## Certificates/Awards 📄
--->
-
 ## 🗻 Experience
-
 ### [<img src="./job-icons/icon-practicum.png" align="left" width="24">Practicum by Yandex](https://practicum.yandex.com) (June 2020 - Present)
 - <b>Position: </b>Content Manager of Front-End Programme
 - <b>Experience: </b>10 months
 - <details open>
   <summary><b>Description</b></summary>
   to be continued</details>
-
 ### [<img src="./job-icons/icon-htmlacademy.png" align="left" width="24">HTML Academy](https://htmlacademy.ru) (January 2020 - October 2020)
 - <b>Position: </b>Middle Front-End Mentor
 - <b>Experience: </b>10 months
 - <details open>
   <summary><b>Description</b></summary>
   to be continued</details>
-
 ### <img src="./job-icons/icon-freelance.png" align="left" width="24">Freelance (December 2017 - January 2020)
 - <b>Position: </b>Junior Front-End Developer
 - <b>Experience: </b>2 years 2 months
 - <details open>
   <summary><b>Description</b></summary>
   to be continued</details>
-
 ## 🎯 Hard Skills
 ### Languages & Tools
 <img src="./stack-icons/icon-cpp.svg"> <img src="./stack-icons/icon-csharp.svg"> <img src="./stack-icons/icon-git.svg"> <img src="./stack-icons/icon-html.svg"> <img src="./stack-icons/icon-css.svg">  
 <img src="./stack-icons/icon-js.svg"> <img src="./stack-icons/icon-sass.svg"> <img src="./stack-icons/icon-webpack.svg">  
 <img src="./stack-icons/icon-bootstrap.svg"> <img src="./stack-icons/icon-vue.svg"> <img src="./stack-icons/icon-react.svg"> <img src="./stack-icons/icon-dotnet.svg">
-
 ### Softwares
 <img src="./software-icons/icon-rider.svg"> <img src="./software-icons/icon-vscode.svg"> <img src="./software-icons/icon-figma.svg">  
 <img src="./software-icons/icon-unity.svg"> <img src="./software-icons/icon-ue.svg"> <img src="./software-icons/icon-blender.svg">
-
-
 ### Principles & Concepts
 **BEM 🥚 OOP 🥚 DRY 🥚 SOLID**
-
 ## 🥋 Soft Skills
 📆 Time Management 🏅 Good Listener & Word-Player 🥅 Experienced Team-Player  
-🗽 High-Motivated 🏰 Goal-Oriented 🔋 Capable Employee 🔢 Mathematics  
+🗽 High-Motivated 🏰 Goal-Oriented 🔋 Capable Employee 🔢 Mathematics
+-->
 
 ## ⏩ I'm Currently...
 - Learning C#/C++
