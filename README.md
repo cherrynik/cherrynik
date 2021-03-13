@@ -27,22 +27,22 @@
 ## 🗻 Experience
 
 ### [<img src="./job-icons/icon-practicum.png" align="left" width="24">Practicum by Yandex](https://practicum.yandex.com) (June 2020 - Present)
-- <b>Position: </b> Content Manager
-- <b>Experience: </b> 10 months
+- <b>Position: </b>Content Manager of Front-End Programme
+- <b>Experience: </b>10 months
 - <details open>
   <summary><b>Description</b></summary>
   to be continued</details>
 
 ### [<img src="./job-icons/icon-htmlacademy.png" align="left" width="24">HTML Academy](https://htmlacademy.ru) (January 2020 - October 2020)
-- <b>Position: </b> Front-End Mentor
-- <b>Experience: </b> 10 months
+- <b>Position: </b>Middle Front-End Mentor
+- <b>Experience: </b>10 months
 - <details open>
   <summary><b>Description</b></summary>
   to be continued</details>
 
 ### <img src="./job-icons/icon-freelance.png" align="left" width="24">Freelance (December 2017 - January 2020)
-- <b>Position: </b> Junior Front-End Developer
-- <b>Experience: </b> 2 years 2 months
+- <b>Position: </b>Junior Front-End Developer
+- <b>Experience: </b>2 years 2 months
 - <details open>
   <summary><b>Description</b></summary>
   to be continued</details>
