@@ -1,7 +1,5 @@
 <h1 float="left" align="center"><em>Hi 🖖🏿, I'm Nik Cherednik</em></h1>
 
-> 💡 *Lazybones cannot win, and the winner cannot be lazy.*
-
 ## 🧑🏻 About me
 <!-- <img width="300" align="right" src="./MyPhoto.png"> -->
 <p align="center">I'm a goal-oriented programmer who loves new start-ups, hard challenges, and tries to create my team. Popcorn, Soda, and Netflix!</p>
@@ -54,8 +52,6 @@
 ## 🥋 Soft Skills
 📆 Time Management 🏅 Good Listener & Word-Player 🥅 Experienced Team-Player  
 🗽 High-Motivated 🏰 Goal-Oriented 🔋 Capable Employee 🔢 Mathematics
--->
-
 ## ⏩ I'm Currently...
 - Learning C#/C++
 - Learning and practicing new principles, concepts, like SOLID, DRY, Unit-Tests, on pet projects...
@@ -68,6 +64,7 @@
 - Learning English
 - Dreaming about living and working in the US or Europe
 - **Looking for a good job opportunity 😉**
+-->
 
 ## [🏗 My Works](https://github.com/kolyandev/MyWorks)
 *Or keep exploring my profile!*
