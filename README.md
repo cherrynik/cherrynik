@@ -2,7 +2,7 @@
 
 ## 🧑🏻 About me
 <!-- <img width="300" align="right" src="./MyPhoto.png"> -->
-<p align="center">I'm a goal-oriented programmer who loves new start-ups, hard challenges, and tries to create my team. Popcorn, Soda, and Netflix!</p>
+<p align="center">I'm a goal-oriented programmer who loves new start-ups, hard challenges</p>
 
 <h4 align="center">Get in Touch:</h4>
 
