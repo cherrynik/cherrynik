@@ -52,18 +52,20 @@
 ## 🥋 Soft Skills
 📆 Time Management 🏅 Good Listener & Word-Player 🥅 Experienced Team-Player  
 🗽 High-Motivated 🏰 Goal-Oriented 🔋 Capable Employee 🔢 Mathematics
-## ⏩ I'm Currently...
-- Learning C#/C++
-- Learning and practicing new principles, concepts, like SOLID, DRY, Unit-Tests, on pet projects...
-- ...Or problem solving on platforms like Codewars, HackerRank
-- Playing games sometimes
-- Working on my portfolio
-- Doing sport
-- Contributing another open-source project
-- Ending a High School in Russia
-- Learning English
-- Dreaming about living and working in the US or Europe
-- **Looking for a good job opportunity 😉**
+-->
+
+## ⏩ My Infinite Roadmap
+
+- C++
+- Algorithms & Data Structures
+- Principles & Patterns
+- Problem solving
+- Math & "Computer Science Center"
+- Mod & hack any game (work with assembly)
+- Create any AI
+- IT Certificates for my CV
+- Catalan language
+- English language
 -->
 
 ## [🏗 My Works](https://github.com/kolyandev/MyWorks)
