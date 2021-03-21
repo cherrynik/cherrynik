@@ -66,7 +66,6 @@
 - IT Certificates for my CV
 - Catalan language
 - English language
--->
 
 ## [🏗 My Works](https://github.com/kolyandev/MyWorks)
 *Or keep exploring my profile!*
