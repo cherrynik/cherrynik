@@ -10,7 +10,7 @@
   <a href="mailto:ighosta9@gmail.com"><img src="./social-icons/icon-gmail.svg"></a>
   <a href="https://t.me/kolyandev"><img src="./social-icons/icon-telegram.svg"></a>
   <a href="https://instagram.com/mesa_us"><img src="./social-icons/icon-instagram.svg"></a>
-  <a href="https://linkedin.com/in/nikolay-cherednik-78a244207"><img src="./social-icons/icon-linkedin.svg"></a>
+<!--   <a href="https://linkedin.com/in/nikolay-cherednik-78a244207"><img src="./social-icons/icon-linkedin.svg"></a> -->
 </p>
 
 ## 🖋 Latest Blog Posts
