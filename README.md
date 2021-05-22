@@ -66,9 +66,9 @@
 - - English 
 - - Catalan
 
-## [🏗 Check My Works](https://github.com/kolyandev/MyWorks)
-*Or keep exploring my profile!*
-*Maybe you'll find something interesting for ya!*
+## 🏗 Check My Works
+*Just keep exploring my profile!*
+*Maybe you could find somethin' interestin' fo ya!*
 
 <img src="./support-gifs/whoisawesome.webp" height="160"> <img src="./support-gifs/youreawesome.webp" height="160"> <img src="./support-gifs/heallows.webp" height="160">
 
