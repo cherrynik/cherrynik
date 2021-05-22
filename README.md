@@ -56,16 +56,15 @@
 
 ## ⏩ My Infinite Roadmap
 
-- C++ *(In Process)*
-- Algorithms & Data Structures *(In Process)*
-- English language *(In Process)*
-- Catalan language *(In Process)*
-- Math & "Computer Science Center" *(In Process)*
-- Game Hacking (work with assembly) *(In Process)*
-- Principles & Patterns
-- Problem solving
-- Create any AI
-- IT Certificates for my CV
+- C++ *(All Is In Progress)*
+- - Principles & Patterns
+- - Problem solving
+- - Algorithms, & Data Structures, & Math
+- - Game Hacking (also work with assembly)
+- - AI
+- Language *(All Is In Progress)*
+- - English 
+- - Catalan
 
 ## [🏗 My Works](https://github.com/kolyandev/MyWorks)
 *Or keep exploring my profile!*
