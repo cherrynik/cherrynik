@@ -66,7 +66,7 @@
 - - English 
 - - Catalan
 
-## [🏗 My Works](https://github.com/kolyandev/MyWorks)
+## [🏗 Check My Works](https://github.com/kolyandev/MyWorks)
 *Or keep exploring my profile!*
 *Maybe you'll find something interesting for ya!*
 
