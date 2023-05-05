@@ -22,7 +22,7 @@ $ > ╭─✒──────────────────────�
 # Get In Touch:
 <p align="left">
 
-  <a href="https://docs.google.com">![Google Drive](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)</a>
+  <a href="https://docs.google.com/document/d/1XSApzTAeKgkyCfpn1TcQdJafSIK0tMc2/edit?usp=sharing&ouid=112663055965527788195&rtpof=true&sd=true">![Google Drive](https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)</a>
   <a href="mailto:me@cherrynik.ru"><img src="./social-icons/icon-gmail.svg"></a>
   <a href="https://linkedin.com/in/cherrynik"><img src="./social-icons/icon-linkedin.svg"></a>
   <a href="https://t.me/cherrynik"><img src="./social-icons/icon-telegram.svg"></a>
