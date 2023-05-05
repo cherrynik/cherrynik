@@ -1,6 +1,10 @@
 <h1 float="left" align="center">Nik Cherednik</h1>
 
 # About Me:
+```sh
+$ > dotnet repl
+```
+
 ```js
 const string aboutMe = "I'm a goal-oriented programmer who loves hard challenges";
 
