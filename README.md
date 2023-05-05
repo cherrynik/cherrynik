@@ -1,4 +1,4 @@
-<h1 float="left" align="center">Nik Cherednik</h1>
+<h1 float="left" align="center">Hi 👋🏿</h1>
 
 # About Me:
 ```sh
