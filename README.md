@@ -32,3 +32,8 @@ $ > ╭─✒──────────────────────�
 
 | ![My Stack](https://skillicons.dev/icons?i=cs) | ![My Stack](https://skillicons.dev/icons?i=ts) | ![My Stack](https://skillicons.dev/icons?i=nodejs)
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
+
+
+### My Hobbies:
+🎮 Playing & developing games
+⛹🏿‍♂️ Basketball
