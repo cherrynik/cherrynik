@@ -1,22 +1,13 @@
 <h1 float="left" align="center">Hi 👋🏿</h1>
 
 # About Me:
-```sh
-$ > dotnet repl
-```
-
-```js
-const string aboutMe = "I'm a goal-oriented programmer who loves hard challenges";
-
-Console.WriteLine(aboutMe);
-```
 
 ```sh
 $ > ╭─✒──────────────────────────────╮
-    │ I'm a goal-oriented programmer │
-    │ who loves hard challenges      │
-    │                                │
-    ╰────────────────────────────────╯
+    │ I'm a goal-oriented programmer  │
+    │ who loves hard challenges       │
+    │                                 │
+    ╰─────────────────────────────────╯
 ```
 
 # Get In Touch:
