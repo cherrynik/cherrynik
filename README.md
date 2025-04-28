@@ -3,7 +3,7 @@
 # About Me:
 
 ```sh
-$ > ╭─✒──────────────────────────────╮
+$ > ╭─✒───────────────────────────────╮
     │ I'm a goal-oriented programmer  │
     │ who loves hard challenges       │
     │                                 │
@@ -23,7 +23,7 @@ $ > ╭─✒──────────────────────�
 
 # Languages and Tools:
 
-| ![My Stack](https://skillicons.dev/icons?i=cs) | ![My Stack](https://skillicons.dev/icons?i=ts) | ![My Stack](https://skillicons.dev/icons?i=nodejs)
+| ![My Stack](https://skillicons.dev/icons?i=nodejs) | ![My Stack](https://skillicons.dev/icons?i=ts) | ![My Stack](https://skillicons.dev/icons?i=cs)
 | :--------------------------------------------: | :--------------------------------------------: | :--------------------------------------------: |
 
 
